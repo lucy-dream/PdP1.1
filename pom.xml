@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.techfak</groupId>
-    <artifactId>PdP-Teil01</artifactId>
+    <artifactId>JustTesting</artifactId>
     <packaging>jar</packaging>
     <version>1.0</version>
-    <name>PdP-Teil01</name>
+    <name>JustTesting</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
